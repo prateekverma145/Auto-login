@@ -46,8 +46,8 @@ Many organizations, such as educational institutions or corporate environments, 
 ## Setup and Usage
 add the code to startup so it will automatically login to the portal on pc start:
 ### steps
-1 press win+r and write shell:startup 
-2 add new shortcut and browse to location where the dist folder is and add the .exe file
+1 `press win+r and write shell:startup `\
+2 `add new shortcut and browse to location where the dist folder is and add the .exe file`
 
 
 ### 1. Configure the Script
