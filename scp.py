@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, WebDriverException
 import time
 
-USR = "122cs0026@iiitk.ac.in"
-PASS = "246319287"
+USR = "ypur_mail"
+PASS = "your_password"
 
 try:
     # Set up Chrome options to ignore certificate errors and run headless
